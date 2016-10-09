@@ -4,6 +4,8 @@ This Jupyer notebook scrapes the official results of [Colombia's Peace Plebiscit
 
 The referendum to ratify the final agreement on the termination of the conflict between the Colombian government and guerillas was held on October 2, 2016. It failed with 50.2 percent voting against it and 49.8 percent voting in favor.
 
+[See here](https://christianmeyer.carto.com/viz/e5fd128e-8e78-11e6-85be-0e98b61680bf/embed_map) for an interactive visualization of this data.
+
 --- 
 
 *[Christian Johannes Meyer](http://www.chrmeyer.com) (European University Institute)* & 
